@@ -2,7 +2,6 @@ matplotlib
 numpy
 scikit-learn
 pandas
-cvxopt
 scipy
 progressbar33
 terminaltables
